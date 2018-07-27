@@ -14,9 +14,9 @@
 
 ## TODO
 
-- [] Debounce requests, until storage is synced
+- [x] Debounce requests, until storage is synced
 - [] Provide examples
-- [] Publish on npm
+- [x] Publish on npm
 - [] Write tests
 
 ## Contribute
